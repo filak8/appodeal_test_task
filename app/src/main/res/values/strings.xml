@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppodealTestTask</string>
+    <string name="button_go_to_listview">Go to ListView</string>
+    <string name="advertising_marker">Ad</string>
+    <string name="title">Title_</string>
+    <string name="description">Description_</string>
+    <string name="button_text">Button_</string>
+    <string name="empty_field"> </string>
+</resources>
